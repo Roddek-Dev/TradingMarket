@@ -5,7 +5,7 @@ class Conexion {
     public static function conectar() {
         $nombreServidor = "localhost";
         $usuario = "root";
-        $password = "";
+        $password = "Recuerdame545";
         $baseDatos = "inventarios";
         $charset = 'utf8mb4';
 
